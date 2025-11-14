@@ -1,0 +1,11 @@
+com\groupproj\Utilities.class
+com\groupproj\Payment.class
+com\groupproj\BookCard.class
+com\groupproj\RecommendedSection.class
+com\groupproj\AllBooksSection.class
+com\groupproj\GenreSection.class
+com\groupproj\BookstoreApp.class
+com\groupproj\CartBar.class
+com\groupproj\Book.class
+com\groupproj\NavigationBar.class
+com\groupproj\ShoppingCart.class
